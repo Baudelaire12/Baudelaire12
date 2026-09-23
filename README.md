@@ -33,7 +33,7 @@ Full case studies (context, method, results) are on my website.
 | Project | Domain | Methods |
 |---|---|---|
 | [Blockchain-certified AI for medical diagnosis](https://site-pinel-dahoui.vercel.app/fr/realisations/blockchain-ia-diagnostic-medical) | Health | Deep learning, blockchain, on-chain/off-chain design |
-| [Portfolio Optimizer Pro](https://site-pinel-dahoui.vercel.app/fr/realisations/portfolio-optimizer-pro) · [code](https://github.com/Baudelaire12/PROJET-OPTIMIZATION-PORTFEUILLE) | Finance | Markowitz, efficient frontier, Streamlit |
+| [Portfolio Optimizer Pro](https://site-pinel-dahoui.vercel.app/fr/realisations/portfolio-optimizer-pro) | Finance | Markowitz, efficient frontier, Streamlit |
 | [Air quality prediction (AirQo, silver medal)](https://site-pinel-dahoui.vercel.app/fr/realisations/prediction-qualite-de-l-air) | Environment | XGBoost, LightGBM, geospatial features |
 | [Determinants of bank loan approval](https://site-pinel-dahoui.vercel.app/fr/realisations/determinants-octroi-de-credit) | Finance | Welch, Chi², Ridge logistic, Random Forest, XGBoost |
 | [COVID-19 model for South Africa](https://site-pinel-dahoui.vercel.app/fr/realisations/modelisation-covid-19-afrique-du-sud) | Health | 7-compartment ODE model, Levenberg-Marquardt, Sobol indices |
